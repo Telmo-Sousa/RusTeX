@@ -33,7 +33,7 @@ RusTeX is a simple command-line utility written in Rust for compiling LaTeX file
 
 Compile a LaTeX file named `example.tex` to produce `example.pdf`:
 ```bash
-./latex_compiler example.tex example.pdf
+./main example.tex example.pdf
 ```
 
 ## Warnings
